@@ -1,3 +1,3 @@
-### [Pomodoro Timer](https://emilprogramming.github.io/notion/pomodoro)
-### [Überblick-Widget](https://emilprogramming.github.io/notion/minimal-overview)
-### [Stopwatch](https://emilprogramming.github.io/notion/stopwatch)
+### [pomodoro-timer](https://emilprogramming.github.io/notion/pomodoro)
+### [greetings-date-time](https://emilprogramming.github.io/notion/minimal-overview)
+### [stopwatch](https://emilprogramming.github.io/notion/stopwatch)
